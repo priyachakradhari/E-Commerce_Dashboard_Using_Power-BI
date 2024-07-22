@@ -23,7 +23,9 @@ Total Quantity Sold (1K): Indicates the total number of units sold.
 Average Order Value (24K): Represents the average revenue per order.
 
 ## Charts and Visualizations:
+
 -Sum of Profit by State: A bar chart showing the profit distribution across different states, with Tamil Nadu leading.
+
 -Sum of Quantity by Category: A pie chart depicting the percentage of quantities sold by product categories, with Clothing contributing the most (60.88%).
 -Profit-Loss by Month: A bar chart visualizing monthly profit and loss, showing positive profit in April and June, and a loss in May.
 -Sum of Profit by Customer Name: A bar chart illustrating profit contributions from top customers, with Aarushi leading.
@@ -34,8 +36,4 @@ Average Order Value (24K): Represents the average revenue per order.
 -Quarter Selector: Allows users to filter data based on selected quarters (Q1, Q2, Q3, Q4).
 -State Filter: Enables users to view sales data for specific states, such as Andhra Pradesh.
 
-## Additional Insights and Features:
--Sales Performance Comparison: Compare sales performance across different periods (e.g., month-over-month, quarter-over-quarter).
--Target vs. Actual Sales: Visual comparison between sales targets and actual performance.
--Customer Segmentation: Analyze sales performance across different customer segments and payment modes.
--Profit Analysis: Detailed view of profit contributions by various dimensions (e.g., state, customer, category).
+
