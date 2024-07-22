@@ -27,9 +27,13 @@ Average Order Value (24K): Represents the average revenue per order.
 -Sum of Profit by State: A bar chart showing the profit distribution across different states, with Tamil Nadu leading.
 
 -Sum of Quantity by Category: A pie chart depicting the percentage of quantities sold by product categories, with Clothing contributing the most (60.88%).
+
 -Profit-Loss by Month: A bar chart visualizing monthly profit and loss, showing positive profit in April and June, and a loss in May.
+
 -Sum of Profit by Customer Name: A bar chart illustrating profit contributions from top customers, with Aarushi leading.
+
 -Sum of Quantity by Payment Mode: A pie chart showing the distribution of quantities sold by payment modes, with COD being the most used (44.28%).
+
 -Sum of Profit by Sub-Category: A bar chart highlighting profit by product sub-categories, with Tables contributing the highest profit.
 
 ## Interactive Elements and Filters:
