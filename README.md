@@ -18,8 +18,11 @@ The E-Commerce Sales Dashboard is designed to be a user-friendly and interactive
 ##Key Metrics and KPIs:
 
 Total Sales (87K): Displays the total revenue generated.
+
 Total Profit (1K): Shows the overall profit earned.
+
 Total Quantity Sold (1K): Indicates the total number of units sold.
+
 Average Order Value (24K): Represents the average revenue per order.
 
 ## Charts and Visualizations:
@@ -37,7 +40,9 @@ Average Order Value (24K): Represents the average revenue per order.
 -Sum of Profit by Sub-Category: A bar chart highlighting profit by product sub-categories, with Tables contributing the highest profit.
 
 ## Interactive Elements and Filters:
+
 -Quarter Selector: Allows users to filter data based on selected quarters (Q1, Q2, Q3, Q4).
+
 -State Filter: Enables users to view sales data for specific states, such as Andhra Pradesh.
 
 
